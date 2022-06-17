@@ -1,3 +1,4 @@
+Q2)
 paul@arch-linux ~/internship/t2  (master)
 $ nvim a.txt
 
@@ -37,6 +38,7 @@ Date:   Fri Jun 17 11:02:42 2022 +0530
 
     1.0.0
 
+Q1)
 paul@arch-linux ~/internship/t2  (master)
 $ git push --set-upstream origin master
 Username for 'https://github.com': ppauljonathan
@@ -55,6 +57,7 @@ To https://github.com/ppauljonathan/vinsol-git-test-2
  * [new branch]      master -> master
 branch 'master' set up to track 'origin/master'.
 
+Q3)
 paul@arch-linux ~/internship/t2  (master)
 $ nvim a.txt
 
@@ -83,6 +86,7 @@ Date:   Fri Jun 17 11:02:42 2022 +0530
 
     1.0.0
 
+Q4)
 paul@arch-linux ~/internship/t2  (master)
 $ nvim c.txt
 
@@ -118,6 +122,7 @@ Date:   Fri Jun 17 11:02:42 2022 +0530
 
     1.0.0
 
+Q5)
 paul@arch-linux ~/internship/t2  (master)
 $ git checkout 1.0.1
 Note: switching to '1.0.1'.
@@ -173,6 +178,7 @@ Date:   Fri Jun 17 11:02:42 2022 +0530
 
     1.0.0
 
+Q6)
 paul@arch-linux ~/internship/t2  ((1.0.2))
 $ git checkout master
 Previous HEAD position was 8034713 1.0.2
@@ -234,6 +240,8 @@ remote: Resolving deltas: 100% (2/2), done.
 To https://github.com/ppauljonathan/vinsol-git-test-2
    dabf1f8..b5dfc82  master -> master
 
+PUSHED TAGS TO GITHUB
+ 
 paul@arch-linux ~/internship/t2  (master)
 $ git push --tags
 Username for 'https://github.com': ppauljonathan
